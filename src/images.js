@@ -1,6 +1,5 @@
-
 //pictures retrieved from [https://www.pexels.com/search/love%20wallpaper/]
-[
+const images=[
     {"id":1,
      "image":"https://images.pexels.com/photos/1767434/pexels-photo-1767434.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
@@ -18,14 +17,5 @@
     },
     {"id":6,
     "image":"https://images.pexels.com/photos/1122639/pexels-photo-1122639.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-
-
-
-
-
-
-
-
-
+    }
 ]
