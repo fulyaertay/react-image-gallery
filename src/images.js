@@ -19,3 +19,4 @@ const images=[
     "image":"https://images.pexels.com/photos/1122639/pexels-photo-1122639.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ]
+export default images;

@@ -5,10 +5,15 @@
   margin: 0;
   box-sizing: border-box;
   font-family: 'Antic Slab', serif;
+ 
+}
+body{
+  background-color:rgb(14, 13, 13);
 }
 
 h1 {
   margin: 15px;
   letter-spacing: 1.3px;
   text-align: center;
+  color: #fff;
 }
