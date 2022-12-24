@@ -1,3 +1,32 @@
+
+## Project: Image Gallery App
+
+
+
+## Animation of the App
+
+![image](./image-gallery.gif)
+
+## Visulation of the App
+
+![image](./image-gallery.png)
+
+## Description
+```bash
+- User can list most populer wallpapers
+- When user click an image, wallpaper shows on a modal box
+```
+
+## Overview
+I mastered HTML, CSS, Javascript and React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(useState,React Component, React-Icons)
+- Pictures retrieved from [https://www.pexels.com/search/love%20wallpaper/]
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
