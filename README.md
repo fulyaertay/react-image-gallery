@@ -14,7 +14,7 @@
 ## Description
 ```bash
 - User can list most populer wallpapers
-- When user click an image, wallpaper shows on a modal box
+- When user click an image, wallpaper is shown on a modal box
 ```
 
 ## Overview
