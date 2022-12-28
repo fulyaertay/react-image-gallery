@@ -1,7 +1,7 @@
 
 ## Project: Image Gallery App
 
-## Check The Live Website :arrow_right: [Live Website]([https://image-galleries.netlify.app/])
+## Check The Live Website :arrow_right: [Live Website](https://image-galleries.netlify.app/)
 
 ## Animation of the App
 
